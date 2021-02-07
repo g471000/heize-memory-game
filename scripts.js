@@ -121,7 +121,7 @@ function createGameoverInfo() {
         '<h2>Your Time:</h2>' +
         '<h3>' + newTime + '</h3>' +
         '<h2>Best Time:</h2>' +
-        '<h3>' + "Every seconds with you" + '</h3>' +
+        '<h3>' + "Every second with you" + '</h3>' +
         '<h3></h3>' +
         '<h1>보고싶어요</h1>' +
         '<h1>헤이즈</h1>' +
